@@ -8,7 +8,7 @@ const RESOURCES = {
 "/assets\packages\cupertino_icons\assets\CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/icons\Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "/icons\Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"/index.html": "30552950b337b70b1033adaf0121ea54",
+"/index.html": "da2bd77897312d2d7f124d71db406fe0",
 "/main.dart.js": "41066c43b06e985269386e7a2356a89c",
 "/manifest.json": "4edb3dd870974265082b29e12ed2c022"
 };
